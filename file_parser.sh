@@ -3,7 +3,7 @@
 #
 # Daniel Lennon - djl9490@rit.edu
 # Red Team Tool for Competition 2
-# Team Charlie - No repository link yet
+# Team Charlie - djl9490-csec473-git.rit.edu
 # Script gives four options of how it can parse through a directory
 #
 
